@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Ascent"
+  id="myeclipse.1228204655593"
+  context-root="/Ascent"
+  j2ee-spec="1.4"
+  archive="Ascent.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
